@@ -15,7 +15,7 @@ public class BrudnopisTest {
         Scanner scanner = new Scanner(System.in);
         String input = "";
 
-        System.out.println("########## Notatnik - brudnopis ###########");
+        System.out.println("############ Notatnik - brudnopis #############");
         System.out.println("Write commends (next, prev, exit) or Write Text");
 
 
